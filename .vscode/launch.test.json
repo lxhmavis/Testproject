@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "todo-app-java-on-azure",
+                "projectName": "todo-app-java-on-azure",
+                "workingDirectory": "d:\\TsPro\\Testrunner\\todo-app-java-on-azure",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "todo-app-java-on-azure",
+                "projectName": "todo-app-java-on-azure",
+                "workingDirectory": "d:\\TsPro\\Testrunner\\todo-app-java-on-azure",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
